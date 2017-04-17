@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/style.css",
+	"sources": [
+		"../sass/style.scss"
+	],
+	"sourcesContent": [
+		"$sass: #ff4545;\r\n$plava:green;\r\n\r\nbody{\r\n\tbackground-color:$sass;\r\n\r\n}\r\n\r\nh1{\r\n\tcolor: white;\r\n}\r\n\r\np{\r\n\tcolor:$plava;\r\n\tfont-weight: 700;\r\n}"
+	],
+	"mappings": ";AAGA,AAAA,IAAI,CAAA;EACH,gBAAgB,EAJV,OAAO;CAMb;;;AAED,AAAA,EAAE,CAAA;EACD,KAAK,EAAE,KAAM;CACb;;;AAED,AAAA,CAAC,CAAA;EACA,KAAK,EAZC,KAAK;EAaX,WAAW,EAAE,GAAI;CACjB",
+	"names": []
+}
